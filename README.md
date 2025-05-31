@@ -1,4 +1,7 @@
-## -HELLO WORlD- 🌍
+  -HELLO WORlD- 🌍
+💻I'm Matheus Canaparro but you can call me "Marte", i'm a Ti Student and im studying an analysis and development systems
+😉i'm from 2006 and i'm from Brazil in rio grande do sul state
+☕My favorite Program Linguage is Java
 
 <!--
 **martestillinsk/Martestillinsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
