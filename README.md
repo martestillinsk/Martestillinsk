@@ -3,7 +3,6 @@
 😉i'm from 2006 and i'm from Brazil in rio grande do sul state
 ☕My favorite Program Linguage is Java
 
-<!--
 ## Contatos:
 <div>
 <a href="https://instagram.com/Marte_stillinsk" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
