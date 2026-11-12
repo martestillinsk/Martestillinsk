@@ -28,8 +28,8 @@
 
 ### 📊 GitHub Stats / Estatísticas do GitHub
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Martestillinsk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=martestillinsk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martestillinsk&layout=compact&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martestillinsk&layout=compact&theme=tokyonight" />
 </p>
